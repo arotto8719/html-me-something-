@@ -1,0 +1,15 @@
+
+body {
+ background-color: violet;
+}
+p {
+    color: gray;
+}
+
+.name {
+  font-weight: bold;
+}
+
+#status {
+  font-family: Edwardian Script ITC;
+}
