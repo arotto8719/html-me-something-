@@ -1,9 +1,68 @@
 
 body {
- background-color: violet;
+ background-color: rgb(198, 130, 238);
+ border: 1 px violet;
+ font-family: Lucida Calligraphy; 
 }
 p {
-    color: gray;
+    color: #333333;
+    padding-right: 30 px;
+    padding-left: 30 px;
+}
+
+#poster {
+  width: 200px;
+  transform: rotate(90deg);
+}
+
+#globe {
+  width: 200px;
+}
+
+#kedgeree {
+    width: 400px;
+}
+
+#mushroom {
+  width: 400px;
+}
+
+#chicken {
+  width: 400px;
+}
+
+#shepardspie {
+  width: 400px;
+}
+
+#battenburg {
+  width: 400px;
+}
+
+#treacle {
+  width: 400px;
+}
+
+#jamtarts {
+  width: 400px;
+}
+
+#onionsoup {
+  width: 400px;
+  transform: rotate(90deg);
+  padding-top: 100px;
+}
+
+#cookie {
+    width: 400px;
+    transform: rotate(90deg);
+    padding-top: 100px;
+}
+
+#lucy {
+  width: 500px;
+  transform: rotate(90deg);
+  padding-top: 100px;
 }
 
 .name {
@@ -12,4 +71,8 @@ p {
 
 #status {
   font-family: Edwardian Script ITC;
+}
+  div {
+  margin-top: 100 px;
+  margin-bottom: 100 px;
 }
