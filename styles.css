@@ -5,8 +5,8 @@ body {
 }
 p {
     color: #333333;
-    padding-right: 30 px;
-    padding-left: 30 px;
+    padding-right: 30px;
+    padding-left: 30px;
 }
 
 #poster {
@@ -71,13 +71,16 @@ p {
 #status {
   font-family: Edwardian Script ITC;
 }
-  div {
-  margin-top: 100 px;
-  margin-bottom: 100 px;
+.name {
+  color: #660066;
+}
+.paragraph {
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 p {
-  padding-top: 50 px;
-  padding-right: 30 px;
-  padding-bottom: 50 px;
-  padding-left: 80 px;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
   }
