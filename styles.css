@@ -5,17 +5,12 @@ body {
 }
 
 p {
+  color: #333333;
   padding-top: 50px;
   padding-right: 30px;
   padding-bottom: 50px;
   padding-left: 80px;
   }
-
-p {
-    color: #333333;
-    padding-right: 30px;
-    padding-left: 30px;
-} 
 
 #poster {
   width: 200px;
