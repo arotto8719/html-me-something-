@@ -6,7 +6,7 @@ body {
 
 p {
   color: #333333;
-  padding-top: 50px;
+  padding-top: 10px;
   padding-right: 30px;
   padding-bottom: 50px;
   padding-left: 80px;
@@ -80,6 +80,6 @@ p {
 }
 
 .paragraph {
-  margin-top: 100px;
+  margin-top: 50px;
   margin-bottom: 100px;
 }
