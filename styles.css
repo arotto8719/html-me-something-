@@ -3,11 +3,19 @@ body {
  background-color: rgb(198, 130, 238);
  font-family: Lucida Calligraphy; 
 }
+
+p {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  }
+
 p {
     color: #333333;
     padding-right: 30px;
     padding-left: 30px;
-}
+} 
 
 #poster {
   width: 200px;
@@ -71,16 +79,12 @@ p {
 #status {
   font-family: Edwardian Script ITC;
 }
+
 .name {
   color: #660066;
 }
+
 .paragraph {
   margin-top: 100px;
   margin-bottom: 100px;
 }
-p {
-  padding-top: 50px;
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 80px;
-  }
