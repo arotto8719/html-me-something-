@@ -75,3 +75,9 @@ p {
   margin-top: 100 px;
   margin-bottom: 100 px;
 }
+p {
+  padding-top: 50 px;
+  padding-right: 30 px;
+  padding-bottom: 50 px;
+  padding-left: 80 px;
+  }
